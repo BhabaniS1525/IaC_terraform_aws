@@ -2,6 +2,10 @@
 
 This repository contains Terraform configuration and deployment documentation for the vProfile application infrastructure and supporting services on AWS. The project focuses on centralized Terraform state management (S3 backend), a secured VPC, backend services (RDS, ElastiCache, Amazon MQ), and a frontend running on Elastic Beanstalk.
 
+## Architecture
+
+![architecture](Deployment/Resources/Images/CSM_Architecture_diagram.png)
+
 ## Quick summary 🔎
 
 - **Purpose** 🎯: Provide reproducible, versioned infrastructure for the vProfile Java application.

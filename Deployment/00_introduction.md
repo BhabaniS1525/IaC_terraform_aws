@@ -124,7 +124,7 @@ Organizations that adopt infrastructure automation with centralized state typica
 
 ### 🧩 Architecture Summary
 
-> architecture diagram goes here
+![Diagram](Resources/Images/CSM_Architecture_diagram.png)
 
 - Terraform runs locally or in CI
 - State stored in S3 as a remote backend
